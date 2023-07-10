@@ -1,0 +1,9 @@
+
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(êìæ8å™âè’1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ä©”ùÿÿÿÿ8ô™âè’1
+b
+java:S1854"@Remove this useless assignment to local variable "ladoQuadrado".( ³“çøÿÿÿÿ8ô™âè’1
+S
+java:S1481"1Remove this unused "ladoQuadrado" local variable.( ³“çøÿÿÿÿ8ô™âè’1
